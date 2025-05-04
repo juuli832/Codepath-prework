@@ -20,16 +20,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-Candy Crush 
-    Fun Colors
-    Sounds
-Flappy Bird
-    Single tap feature
-    Sounds 
-    Score display 
-Color sort
-    Skin options 
-    Podium 
+
+  - Candy Crush 
+      -- Fun Colors and Sounds
+      
+  - Flappy Bird
+      -- Single tap feature, Sounds, and Score display 
+      
+  - Color sort
+      -- Skin options and Podium 
     
     I would love to remake flappy bird and allow for users to choose thier own skins. I loved the simplicity of the 
     app but wished it was customizable in terms of visuals. Like even a background change or even being able to choose 
